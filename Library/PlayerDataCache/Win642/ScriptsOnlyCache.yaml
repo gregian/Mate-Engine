@@ -1,0 +1,2673 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AvatarAnimatorController
+    - AvatarControllerHeadTracking
+    - AvatarSettingsMenu
+    - FPSLimiter
+    - FixedPosition
+    - UnityOptimizer
+    - VRMLoader
+    CitrioN.Common.Editor.dll:
+    - CitrioN.Common.Editor.DocumentationController
+    - CitrioN.Common.Editor.IntegrationsController
+    - CitrioN.Common.Editor.OpenManagerWindowWithTabAction
+    - CitrioN.Common.Editor.SamplesController
+    - CitrioN.Common.Editor.SupportContentController
+    - CitrioN.Common.Editor.UninstallPackagesController
+    CitrioN.Common.dll:
+    - CitrioN.Common.ScriptableVisualTreeAsset
+    - CitrioN.Common.ScriptableVisualTreeAssetCollection
+    - CitrioN.Common.StringToStringRelationProfile
+    CitrioN.SettingsMenuCreator.Editor.dll:
+    - CitrioN.SettingsMenuCreator.Editor.ManagerWindow_SettingsMenuCreator
+    - CitrioN.SettingsMenuCreator.Editor.ResourceGenerationController
+    - CitrioN.SettingsMenuCreator.Editor.SettingsCollectionController
+    - CitrioN.SettingsMenuCreator.Editor.WelcomeController_SettingsMenuCreator
+    Kirurobo.UniWindowController.dll:
+    - Kirurobo.UniWindowController
+    - Kirurobo.UniWindowMoveHandle
+    NugetForUnity.dll:
+    - NugetForUnity.Ui.NugetWindow
+    UniHumanoid:
+    - UniHumanoid.HumanPoseClip
+    UniHumanoid.dll:
+    - UniHumanoid.AvatarDescription
+    Unity.Muse.Animate.dll:
+    - Unity.Muse.Animate.LibraryItemAsset
+    - Unity.Muse.Animate.LibraryItemAssetData
+    - Unity.Muse.Animate.LibraryItemAssetPreview
+    Unity.Muse.AppUI.dll:
+    - Unity.AppUI.Core.AppUISettings
+    Unity.Muse.Common.Editor.dll:
+    - Unity.Muse.Common.Editor.ArtifactExporterFactory
+    Unity.Muse.Common.dll:
+    - Unity.Muse.Common.Account.AccountStatus
+    Unity.RenderPipelines.Core.Runtime:
+    - UnityEngine.Rendering.UI.DebugUIHandlerBitField
+    - UnityEngine.Rendering.UI.DebugUIHandlerButton
+    - UnityEngine.Rendering.UI.DebugUIHandlerCanvas
+    - UnityEngine.Rendering.UI.DebugUIHandlerColor
+    - UnityEngine.Rendering.UI.DebugUIHandlerContainer
+    - UnityEngine.Rendering.UI.DebugUIHandlerEnumField
+    - UnityEngine.Rendering.UI.DebugUIHandlerEnumHistory
+    - UnityEngine.Rendering.UI.DebugUIHandlerFloatField
+    - UnityEngine.Rendering.UI.DebugUIHandlerFoldout
+    - UnityEngine.Rendering.UI.DebugUIHandlerGroup
+    - UnityEngine.Rendering.UI.DebugUIHandlerHBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerIndirectFloatField
+    - UnityEngine.Rendering.UI.DebugUIHandlerIndirectToggle
+    - UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    - UnityEngine.Rendering.UI.DebugUIHandlerMessageBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerObject
+    - UnityEngine.Rendering.UI.DebugUIHandlerObjectList
+    - UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    - UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    - UnityEngine.Rendering.UI.DebugUIHandlerPersistentCanvas
+    - UnityEngine.Rendering.UI.DebugUIHandlerProgressBar
+    - UnityEngine.Rendering.UI.DebugUIHandlerRow
+    - UnityEngine.Rendering.UI.DebugUIHandlerToggle
+    - UnityEngine.Rendering.UI.DebugUIHandlerToggleHistory
+    - UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    - UnityEngine.Rendering.UI.DebugUIHandlerVBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerValue
+    - UnityEngine.Rendering.UI.DebugUIHandlerValueTuple
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector2
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector3
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector4
+    - UnityEngine.Rendering.UI.UIFoldout
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI:
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.VerticalLayoutGroup
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Toggle
+    VRM.dll:
+    - VRM.BlendShapeAvatar
+    - VRM.BlendShapeClip
+    - VRM.VRMBlendShapeProxy
+    - VRM.VRMFirstPerson
+    - VRM.VRMHumanoidDescription
+    - VRM.VRMLookAtBoneApplyer
+    - VRM.VRMLookAtHead
+    - VRM.VRMMeta
+    - VRM.VRMMetaObject
+    - VRM.VRMSpringBone
+    - VRM.VRMSpringBoneColliderGroup
+  serializedClasses:
+    UniHumanoid:
+    - UniHumanoid.BoneLimit
+    Unity.RenderPipelines.Core.Runtime:
+    - UnityEngine.Rendering.UI.DebugUIPrefabBundle
+    Unity.TextMeshPro:
+    - TMPro.FaceInfo_Legacy
+    - TMPro.FontAssetCreationSettings
+    - TMPro.KerningTable
+    - TMPro.TMP_Character
+    - TMPro.TMP_FontFeatureTable
+    - TMPro.TMP_FontWeightPair
+    - TMPro.TMP_Sprite
+    - TMPro.TMP_SpriteCharacter
+    - TMPro.TMP_SpriteGlyph
+    - TMPro.TMP_Style
+    - TMPro.VertexGradient
+    UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
+    - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    - UnityEngine.RectOffset
+    UnityEngine.TextCoreFontEngineModule:
+    - UnityEngine.TextCore.FaceInfo
+    - UnityEngine.TextCore.Glyph
+    - UnityEngine.TextCore.GlyphMetrics
+    - UnityEngine.TextCore.GlyphRect
+    - UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphValueRecord
+    UnityEngine.UI:
+    - UnityEngine.EventSystems.EventTrigger/Entry
+    - UnityEngine.EventSystems.EventTrigger/TriggerEvent
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.FontData
+    - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.ScrollRect/ScrollRectEvent
+    - UnityEngine.UI.Scrollbar/ScrollEvent
+    - UnityEngine.UI.Slider/SliderEvent
+    - UnityEngine.UI.SpriteState
+    - UnityEngine.UI.Toggle/ToggleEvent
+    UnityEngine.UIElementsModule:
+    - UnityEngine.UIElements.StyleComplexSelector
+    - UnityEngine.UIElements.StyleProperty
+    - UnityEngine.UIElements.StyleRule
+    - UnityEngine.UIElements.StyleSelector
+    - UnityEngine.UIElements.StyleSelectorPart
+    - UnityEngine.UIElements.StyleSheets.Dimension
+    - UnityEngine.UIElements.StyleValueHandle
+    VRM:
+    - VRM.BlendShapeBinding
+    - VRM.CurveMapper
+    - VRM.OffsetOnTransform
+    - VRM.VRMFirstPerson/RendererFirstPersonFlags
+    - VRM.VRMSpringBoneColliderGroup/SphereCollider
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: AvatarSettingsMenu
+    methodName: ResetToDefaults
+  - assembly: Assembly-CSharp
+    fullTypeName: VRMLoader
+    methodName: OpenFileDialogAndLoadVRM
+  - assembly: Assembly-CSharp
+    fullTypeName: AvatarSettingsMenu
+    methodName: ApplySettings
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerButton
+    methodName: OnAction
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: OnScrollbarClicked
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: OnScrollbarClicked
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: ResetDebugManager
+  sceneClasses:
+    Assets/Enginev1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1162}
+    - Class: 114
+      Script: {instanceID: 33378}
+    - Class: 114
+      Script: {instanceID: 33570}
+    - Class: 114
+      Script: {instanceID: 33872}
+    - Class: 114
+      Script: {instanceID: 34150}
+    - Class: 114
+      Script: {instanceID: 34356}
+    - Class: 114
+      Script: {instanceID: 34492}
+    - Class: 114
+      Script: {instanceID: 34670}
+    - Class: 114
+      Script: {instanceID: 34734}
+    - Class: 114
+      Script: {instanceID: 34922}
+    - Class: 114
+      Script: {instanceID: 35192}
+    - Class: 114
+      Script: {instanceID: 35458}
+    - Class: 114
+      Script: {instanceID: 35612}
+    - Class: 114
+      Script: {instanceID: 35678}
+    - Class: 114
+      Script: {instanceID: 35878}
+    - Class: 114
+      Script: {instanceID: 35958}
+    - Class: 114
+      Script: {instanceID: 36082}
+    - Class: 114
+      Script: {instanceID: 36088}
+    - Class: 114
+      Script: {instanceID: 36160}
+    - Class: 114
+      Script: {instanceID: 36398}
+    - Class: 114
+      Script: {instanceID: 36484}
+    - Class: 114
+      Script: {instanceID: 36530}
+    - Class: 114
+      Script: {instanceID: 36618}
+    - Class: 114
+      Script: {instanceID: 36644}
+    - Class: 114
+      Script: {instanceID: 36680}
+    - Class: 114
+      Script: {instanceID: 36796}
+    - Class: 114
+      Script: {instanceID: 37452}
+    - Class: 114
+      Script: {instanceID: 37554}
+    - Class: 114
+      Script: {instanceID: 37674}
+    - Class: 114
+      Script: {instanceID: 38020}
+    - Class: 114
+      Script: {instanceID: 38026}
+    - Class: 114
+      Script: {instanceID: 38830}
+    - Class: 114
+      Script: {instanceID: 38888}
+    - Class: 114
+      Script: {instanceID: 39282}
+    - Class: 114
+      Script: {instanceID: 39348}
+    - Class: 114
+      Script: {instanceID: 39440}
+    - Class: 114
+      Script: {instanceID: 39528}
+    - Class: 114
+      Script: {instanceID: 39660}
+    - Class: 114
+      Script: {instanceID: 40004}
+    - Class: 114
+      Script: {instanceID: 40342}
+    - Class: 114
+      Script: {instanceID: 40382}
+    - Class: 114
+      Script: {instanceID: 40614}
+    - Class: 114
+      Script: {instanceID: 40718}
+    - Class: 114
+      Script: {instanceID: 40720}
+    - Class: 114
+      Script: {instanceID: 40776}
+    - Class: 114
+      Script: {instanceID: 40996}
+    - Class: 114
+      Script: {instanceID: 41910}
+    - Class: 114
+      Script: {instanceID: 41964}
+    - Class: 114
+      Script: {instanceID: 42392}
+    - Class: 114
+      Script: {instanceID: 42626}
+    - Class: 114
+      Script: {instanceID: 42642}
+    - Class: 114
+      Script: {instanceID: 42728}
+    - Class: 114
+      Script: {instanceID: 43208}
+    - Class: 114
+      Script: {instanceID: 43732}
+    - Class: 114
+      Script: {instanceID: 43866}
+    - Class: 114
+      Script: {instanceID: 44306}
+    - Class: 114
+      Script: {instanceID: 44362}
+    - Class: 114
+      Script: {instanceID: 44424}
+    - Class: 114
+      Script: {instanceID: 44786}
+    - Class: 114
+      Script: {instanceID: 44882}
+    - Class: 114
+      Script: {instanceID: 45002}
+    - Class: 114
+      Script: {instanceID: 45358}
+    - Class: 114
+      Script: {instanceID: 45446}
+    - Class: 114
+      Script: {instanceID: 45538}
+    - Class: 114
+      Script: {instanceID: 45668}
+    - Class: 114
+      Script: {instanceID: 45788}
+    - Class: 114
+      Script: {instanceID: 45948}
+    - Class: 114
+      Script: {instanceID: 46034}
+    - Class: 114
+      Script: {instanceID: 46036}
+    - Class: 114
+      Script: {instanceID: 46080}
+    - Class: 114
+      Script: {instanceID: 46272}
+    - Class: 114
+      Script: {instanceID: 46546}
+    - Class: 114
+      Script: {instanceID: 46634}
+    - Class: 114
+      Script: {instanceID: 46928}
+    - Class: 114
+      Script: {instanceID: 47144}
+    - Class: 114
+      Script: {instanceID: 47354}
+    - Class: 114
+      Script: {instanceID: 47466}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: beb29b1ce8c22df12a0017bf5faffa5b
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: bc318f12849c1d9bd33c172d32ce243a
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_Label
+  - hash:
+      serializedVersion: 2
+      Hash: c65039d8ed98dd0fa8dab5c466ff492e
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 7f5dd70f2654b08acf422262211d1165
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_Button
+  - hash:
+      serializedVersion: 2
+      Hash: 511f0001c0c792d888170c222cd5288b
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: InputElementProviderCollection_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 90c6dbad1b51c1483491b96c62112d35
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab
+  - hash:
+      serializedVersion: 2
+      Hash: 94e84dd02ff2b4194dedcefbdde8d210
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_PreviousNextSelector
+  - hash:
+      serializedVersion: 2
+      Hash: e94d9d5363e0435c1b5c94b848a49689
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_Slider_Float
+  - hash:
+      serializedVersion: 2
+      Hash: 5c9a6858f5ffcfae246e999547904455
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: c49295a0b95cac2c503b939577f40e3d
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsCollection
+  - hash:
+      serializedVersion: 2
+      Hash: 6dd70e9d2683a9e5c8c1b65fea9b7369
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: InputElementProviderCollection_UIT
+  - hash:
+      serializedVersion: 2
+      Hash: a7e9b845b6b6f89b03f7f28d2342740d
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 6acf8c610b417bfe112a744e246cdacd
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_PreviousNextSelector
+  - hash:
+      serializedVersion: 2
+      Hash: 6703fcbd604f228beb2a44f1cceaf8e2
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 557bed326782f5cfafde864564d38f41
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_Button
+  - hash:
+      serializedVersion: 2
+      Hash: 52ee3bd34d7bbf73e00073c8cf55d366
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UIT_FromUXML_Slider_Float
+  - hash:
+      serializedVersion: 2
+      Hash: b2d2a01a2a85d9ed12e80cb33a9a6044
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cf62aad97f6c2dd5d482e2509c6c9528
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: ff08497b7030514d0b005dd58973f573
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ConsoleLoggerDisabler
+  - hash:
+      serializedVersion: 2
+      Hash: dd12669afc948027560969b4c03d4d02
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: HumanPoseTransfer
+  - hash:
+      serializedVersion: 2
+      Hash: 2c583ad0ac85d03e8700dd05fdcb46cb
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: Variables
+  - hash:
+      serializedVersion: 2
+      Hash: b72d9c057c0f9460abf04218f4cc4f0e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerMessageBox
+  - hash:
+      serializedVersion: 2
+      Hash: 9ebc0a3016506a0cbb7e0306dfcb9497
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: DictionaryAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e7e95903ca66d58e1a7cbd71f824e16d
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: e1c138dc0aa9291c64dd8f18115ce8c3
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: StepSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 0c0b64d103fe555d830e8ca206abd12a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: febcfbf0a0d85e37808a3740e3c2c6fa
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4392bfff79efe0630144f16ea4d656ab
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObjectList
+  - hash:
+      serializedVersion: 2
+      Hash: 45a83704fc118a7feaa3c10b6129b967
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsMenu_UGUI_NavigationSetter_Basic_Loop
+  - hash:
+      serializedVersion: 2
+      Hash: 4b6c4dcfe4ab5b4b364a3208ad770d6f
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: CoroutineRunner
+  - hash:
+      serializedVersion: 2
+      Hash: 8b15e35eb98fc258ec2e839df7c3c9b0
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: fa05b5d7fca7453e7db2671691a6f0e2
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventListener_NoParams
+  - hash:
+      serializedVersion: 2
+      Hash: 1674e163ec62393363de735db3f2b02c
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ProviderLabel_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: d6de8c7eb7c7a00cf801b09f37e03e2d
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: MatchToRectTransform
+  - hash:
+      serializedVersion: 2
+      Hash: de0067ba16efb4ea9b19204965aba0ca
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: SendMessage
+  - hash:
+      serializedVersion: 2
+      Hash: 682dfc653b22feea53b38adb3bc66414
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: bfa9d6dfbc3c74a843a3b197bdcc6639
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: db9b308769d19e1f9e161df0392c23ca
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTransformChildrenChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9dd54ce33440072d6692a67e0c384ad1
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8f59eb2a76a17e8db31693f334060ae0
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: OnTransformChildrenChangedListener
+  - hash:
+      serializedVersion: 2
+      Hash: 743853a20d78fef13ff6d5b798c7d9fd
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: FullscreenSample
+  - hash:
+      serializedVersion: 2
+      Hash: f669be52680c88846b2093fd41d1e06e
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 20a120e55ad3ab65556328d5fd8309dd
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 2deddcdd5f664164bb803747210cbba2
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerRow
+  - hash:
+      serializedVersion: 2
+      Hash: 1362033cd491d66ad3cc206af29cc0de
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: Volume
+  - hash:
+      serializedVersion: 2
+      Hash: 95506652c23e4411c9e758557b88b042
+    assemblyName: VRM
+    namespaceName: VRM
+    className: LookTarget
+  - hash:
+      serializedVersion: 2
+      Hash: da281dc879c7932e0c9669da88ae40c0
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 9507f221948bbd40853cc0ec75374d07
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: LensFlareComponentSRP
+  - hash:
+      serializedVersion: 2
+      Hash: 0c6761e9f928d20ac6f82a1c52bf3cde
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsCollectionApplier
+  - hash:
+      serializedVersion: 2
+      Hash: ace31f57f1eb21520722c4b071fc7a79
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: DropdownLocalizer_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 0e5f776afbd6c9c554e85c2e3885bf01
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: OpenCloseUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: e6ee7dccba41ae87d10e3d922c6cb71c
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 522f6865b4ec12522e602206785309f8
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: GlobalMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 53e329840e6d03aebec76623c3b054db
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: ef19274111491b6b8bcc6fd227f656f5
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIndirectFloatField
+  - hash:
+      serializedVersion: 2
+      Hash: c68aed0c4bd9ec5df09be514713a0343
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: TextMeshProUGUILocalizer
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab879b0f6cc1c2ca078f8e502b063c7
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: CanvasUIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: b54cb56ad21429b676176a4b03075995
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: AspectRatioMatcher
+  - hash:
+      serializedVersion: 2
+      Hash: ee34255e3e86289bde9bad5e07b84cbc
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollRectValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 2e43df353959d2dddc68f6ca3a306855
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CanvasSampleSaveFileImage
+  - hash:
+      serializedVersion: 2
+      Hash: 31ca00e61273e80d1f642cb6d7948a14
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: TabMenu_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: dd9dda1dfd39e605c49e72003342ef5d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 57de4d28052f71b33f143445ceb16348
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Boolean
+  - hash:
+      serializedVersion: 2
+      Hash: 66496b917404bcb20f6bf50861c1adc6
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumeBakingSet
+  - hash:
+      serializedVersion: 2
+      Hash: dbe4f05d59170430398f6453d7253fe5
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerWidget
+  - hash:
+      serializedVersion: 2
+      Hash: 6d971045f8e67def7430d0b6f3cb0700
+    assemblyName: Unity.RenderPipelines.GPUDriven.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DisallowSmallMeshCulling
+  - hash:
+      serializedVersion: 2
+      Hash: 7bdff9e91edfd9600f92a185def7e34a
+    assemblyName: Unity.VisualScripting.Flow
+    namespaceName: Unity.VisualScripting
+    className: ScriptMachine
+  - hash:
+      serializedVersion: 2
+      Hash: 0a3f328f3ea906bbbcf794f4c27ee59d
+    assemblyName: Unity.VisualScripting.Flow
+    namespaceName: Unity.VisualScripting
+    className: ScriptGraphAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 33f160a5c07e580c29aba2bd1e4db811
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: d6cb456642b5faa1ea39be4ecac93c4c
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: OnPrefabCreationActionInvoker
+  - hash:
+      serializedVersion: 2
+      Hash: de8e34fffe62b77ca47bae273d0414ba
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ObsoleteProbeVolumeAsset
+  - hash:
+      serializedVersion: 2
+      Hash: d7cecfa35490a4254ffcbfe11883fe13
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: CopyLayoutFromLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 719cf75189614b30e5913f945f7564af
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Sprite_Image
+  - hash:
+      serializedVersion: 2
+      Hash: 68ceb0f44c88536fafdfc5da2025c7cd
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: StepSliderValueDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 3991a99dba943ad3b9587a57e4899007
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: UIPanelManagerDebugger
+  - hash:
+      serializedVersion: 2
+      Hash: 1bc6ff8d02d2d68019aa6a028f8d409d
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerUpMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: e987953190eb4c12cf19df790566dc2c
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 96cc7df6f9f0f92dd2d6f891db428652
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventListener_Boolean
+  - hash:
+      serializedVersion: 2
+      Hash: f93e2925647e9915876634a2a7036fb8
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: AutoRotator
+  - hash:
+      serializedVersion: 2
+      Hash: a352874883d14ac42695a8c7019bd5cc
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: PreviousNextSelectorLocalizer_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: d5f1af60dfcb4e58155824513e0b61c8
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMLookAt
+  - hash:
+      serializedVersion: 2
+      Hash: e8bc542386f28facf0cced4b351b3090
+    assemblyName: VRM
+    namespaceName: VRM
+    className: BlendShapeAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: 26854db9ddeff36245f366b5254c156a
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: HandRig
+  - hash:
+      serializedVersion: 2
+      Hash: 33656f83bb0079184b2206a69690ec46
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: da5a949a0bbd2ff91bc51c5805c2c41f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseUpAsButtonMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9104447b683bf70406fa01f12ecb564a
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: ea5e0cb2f62c5bafc3dfb7bcdc9595e1
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DebugUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: b14e186823458f549289789cccbb77ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerDownMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 67272c9c30c50b68ef1ce72ac0191c57
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMoveMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 342f0aff635f7c1f43f155e89496bd1d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AdvancedPhysBone
+  - hash:
+      serializedVersion: 2
+      Hash: 6b2b20d5352b9f1294595326f54bd3c2
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObjectPopupField
+  - hash:
+      serializedVersion: 2
+      Hash: 915204dac8acad99f076d6e72ada0a0f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: b04e5d461211540de5c0db2a2fea487e
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: StepSliderWithInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 490b3d5cc2f9dc73c084b3de233e32df
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Color_Text
+  - hash:
+      serializedVersion: 2
+      Hash: 55a241b6819090910ddc2907937572c4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AvatarControllerHeadTracking
+  - hash:
+      serializedVersion: 2
+      Hash: 8016d0f0c4bbef10ad014f3cf5a9c36f
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMMeta
+  - hash:
+      serializedVersion: 2
+      Hash: c0a2b4d13675f08bfb211e044c334e68
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIntField
+  - hash:
+      serializedVersion: 2
+      Hash: 9272420fcdc05d47f4c1c63fe0f8dc5a
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Color_Image
+  - hash:
+      serializedVersion: 2
+      Hash: afb7b65d28d5a7423e69a1b076be0064
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 4728e3d21cc2a12e391e71ec9b7eed0b
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b30c8635462e66ac20f4241106119f77
+    assemblyName: Unity.VisualScripting.State
+    namespaceName: Unity.VisualScripting
+    className: StateMachine
+  - hash:
+      serializedVersion: 2
+      Hash: d9cee4b24cb02bf3cb7aa0e6460a62fa
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: BasicSample
+  - hash:
+      serializedVersion: 2
+      Hash: 3b5263a98bcc71d9a9d1d78a31b34ced
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: d41ab9b5ea92474f9c0a6937a0607ce1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 0f6b6107168e347e854c0107aa8cb9fb
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerEnumHistory
+  - hash:
+      serializedVersion: 2
+      Hash: 51b80d3734ea86b38e3101db98029e15
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7d026ae582dc02c5edc3fc23b8c03ff7
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector3
+  - hash:
+      serializedVersion: 2
+      Hash: c19b44cd56f99005d231fbfd30a33606
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: ScrollRect_ExtendedScrolling
+  - hash:
+      serializedVersion: 2
+      Hash: b72839eb6e4350778dc879d98832aa2b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerHBox
+  - hash:
+      serializedVersion: 2
+      Hash: 67ba98f8a8977f3e60e5f0e049923033
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerColor
+  - hash:
+      serializedVersion: 2
+      Hash: 7bb32d6e4c7614a97d9723ce7e26588c
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: BasicPlayableBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: d0cdd713f9bf4e6a625d9e7804deca42
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 813cee3471e41ca09cc92a618645b6be
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: VRMLoader
+  - hash:
+      serializedVersion: 2
+      Hash: e88d71ef93aba4e7faf243430f6a10ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: MacroScriptableObject
+  - hash:
+      serializedVersion: 2
+      Hash: df712419343aa1ac1b582f0762c54a3d
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: ApplyStyleProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 6a789ce1d24190cf06f24863f6c749b9
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Integer
+  - hash:
+      serializedVersion: 2
+      Hash: 4f353524ce6564e40764f1ea080b2d85
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerStay2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 23a193687bf5f32c023d2a7276174fe4
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventInvoker_Transform
+  - hash:
+      serializedVersion: 2
+      Hash: 6a41859f98a295fbbddcf9d259b57929
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: InvokeOnPrefabCreationActionInvokersInHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 02a47340661d2ea7c6d30e292cfef403
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnToggleValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0a139b9e40fbfc3e31c4a33a31602158
+    assemblyName: Unity.Sentis
+    namespaceName: Unity.Sentis
+    className: ModelAssetData
+  - hash:
+      serializedVersion: 2
+      Hash: a3901985eb076c1c9b7562fca82ca3e0
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f295412bc00b58b9095a71e9764cc886
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6dc3d79712ca4934f6d50c80f010b1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 774b36f985e8dc9e430cd1965aade4d3
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsMenu_UIT_NavigationSetter
+  - hash:
+      serializedVersion: 2
+      Hash: e513618089efa8dfada9a3a00e193d1a
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: FileDialogSample
+  - hash:
+      serializedVersion: 2
+      Hash: c6369b4cc3be620d6c9300e920bc3d52
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: VariablesAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cf32d98954e63b8e30e9334b152e9b8e
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 7cdcf469d6dc7c767a4a703e9d262219
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptableObjectItemData_String
+  - hash:
+      serializedVersion: 2
+      Hash: 3189de5003b13d40354347729ec14c7a
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: MuscleInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 25553f3383952ba75320938838034ec2
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: UnityOptimizer
+  - hash:
+      serializedVersion: 2
+      Hash: b24bae4511d404331640e62f8b8c2ed0
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumesOptions
+  - hash:
+      serializedVersion: 2
+      Hash: 2d390d25ae4c5432a260e973ce9ed09c
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMLookAtHead
+  - hash:
+      serializedVersion: 2
+      Hash: 316f5339df05dbc0be472bd7e835e044
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Vector3
+  - hash:
+      serializedVersion: 2
+      Hash: 8dff8e9853297d341afa0c11f9091b59
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 1321993db8249e1e05e1e0492b2bbdc3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBecameVisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d90629714fa6b0145fcaffc87f5c6559
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnInputFieldValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b6307dfc54cca9ba44f47185c578b0ce
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: fe0a072dbdcbca34d5003c5299de3aaf
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: SceneRenderPipeline
+  - hash:
+      serializedVersion: 2
+      Hash: 85e3d629b123e8af52345a899d698903
+    assemblyName: VRM
+    namespaceName: VRM
+    className: Blinker
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc40a01667ca02b3354a4e7a61be082
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: bf0842d88681628b29beb00b5e2ab785
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDeselectMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9e31685d298b3a0c6286c119fc026d1e
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: PointerOverRectTransformDetector
+  - hash:
+      serializedVersion: 2
+      Hash: 0be833e1b09e97694eab82d51c88b33b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AvatarSettingsMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 4878e735441f4041539853759559c86f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: e0cf060d3a0d1afae0c661ac42606ab8
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 2d1b5540d7155d92005ea224751a5bfe
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: InputModuleValidator
+  - hash:
+      serializedVersion: 2
+      Hash: ad1194b51b136aaa5dbf82cc0a09afab
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: PreviousNextSelector
+  - hash:
+      serializedVersion: 2
+      Hash: 650bd5c0e6700c06113d3bcdb79dfaf0
+    assemblyName: CitrioN.StyleProfileSystem.UIToolkit
+    namespaceName: CitrioN.StyleProfileSystem.UIToolkit
+    className: StyleListener_UIT
+  - hash:
+      serializedVersion: 2
+      Hash: 715f7928b39881049ce8c46350cb8681
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTransformParentChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 44a9fb9383c4d17acdce536c20feeed2
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI.UIToolkit
+    className: UIT_NestedPanel
+  - hash:
+      serializedVersion: 2
+      Hash: d4dba3a5fb09db6628e10fb0b20d267a
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: InputModuleProxy
+  - hash:
+      serializedVersion: 2
+      Hash: f1baca860b345204b624757a53c4e863
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: UIPanelListener_OnOpenedClosed
+  - hash:
+      serializedVersion: 2
+      Hash: a94153129a344b69f0d7d737324edc4f
+    assemblyName: VRM
+    namespaceName: VRM
+    className: PreviewSceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: a3952f7af572b98f228ac7411664c347
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ArmaturePortal
+  - hash:
+      serializedVersion: 2
+      Hash: 113e54f67456d0e7754c0598ee2a6dd4
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumePerSceneData
+  - hash:
+      serializedVersion: 2
+      Hash: 906451ccbc0c83d26899a2d65a5ed60b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CanvasSampleOpenFileTextMultiple
+  - hash:
+      serializedVersion: 2
+      Hash: e300e80143319141244ddb32472d3333
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CanvasSampleOpenFileText
+  - hash:
+      serializedVersion: 2
+      Hash: 28fd3d045acc780719a17f02073eb448
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: a36bdda4b226cec93648fe0091bf989c
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: StringToStringRelationProfile
+  - hash:
+      serializedVersion: 2
+      Hash: c833d8ddc320fe5153f6a88cef23c858
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObject
+  - hash:
+      serializedVersion: 2
+      Hash: e64fcf01089856396ce90bf4fee5910c
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsMenu_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 47f78e94e3df8d612cefa1307a19e2ce
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerValue
+  - hash:
+      serializedVersion: 2
+      Hash: a4633bb099fa18c220f0fd55a3bb3b01
+    assemblyName: SpringBoneJobs
+    namespaceName: UniGLTF.SpringBoneJobs
+    className: FastSpringBoneDisposer
+  - hash:
+      serializedVersion: 2
+      Hash: 4fcf0bb4aff1d14a1dfcdedc4b07bd05
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8d7ab1303b1c14da5fdd62bf96ca6e89
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: FreeCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 8703b6ae2b0eefd9dafbc44d8d333fb1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 1ab136900c0edaeeb49424c852595030
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 7053e305cdc1eb560f4c3be49d3b5136
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: e5f9868e485ac5248f96a3be584a5e4a
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 810e3c228b295cc60c4de2cdd94b18cb
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f2098fcd8ee983a05ec192f63904298f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnEndDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 953fad5c5ab1e7bb889420c434db93fe
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerFloatField
+  - hash:
+      serializedVersion: 2
+      Hash: a908b098f2284663c0b9130e88844772
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: c4b85a67513b4f0cf7b5fb2d5ded04b0
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 3f3387304c3af674d5273ce84090a224
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingObject
+  - hash:
+      serializedVersion: 2
+      Hash: 711ba963e2b245a25de71beeaeeeb658
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerFoldout
+  - hash:
+      serializedVersion: 2
+      Hash: 9f355e210e7950e47ad1391c7681435b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerEnumField
+  - hash:
+      serializedVersion: 2
+      Hash: 43ebd945b04bced376c791411cf5a289
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSelectMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: a830f9c186139d5555a27b3fb41e3cca
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_FontAsset_TMP
+  - hash:
+      serializedVersion: 2
+      Hash: 75aecff097dac0eaaac8feb6f8567d61
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WindowSnapping
+  - hash:
+      serializedVersion: 2
+      Hash: 8715560fafc5f16f075eb3bf7594f81d
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: MuscleDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 91611021c436e278931f7fa9d7d3dd24
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Color_Material_TMP
+  - hash:
+      serializedVersion: 2
+      Hash: a9f0153fc675e1f4ade818b83e4ff0c1
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: VolumeComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 13f262cc0741566a7ab72682984bc3e1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: d08cb597f171edf6fd152a01b6064f2a
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMSpringBone
+  - hash:
+      serializedVersion: 2
+      Hash: 0f5a086d4d028363983ba6ca30a01397
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseOverMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b5b1bc88e1b6bd96995db29b9f8ce679
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: ScrollRectAutoScroller
+  - hash:
+      serializedVersion: 2
+      Hash: e23d2210701e34e6850023cabe554c1f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnInputFieldEndEditMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 7d9f02b1b2d132f5865c7f96d717ce03
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: GridLayoutGroupUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 94cb119ac8c2557773efec338a8fdab7
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventListener_Transform
+  - hash:
+      serializedVersion: 2
+      Hash: 890e483cb45cb253f7bc031a2ebe728d
+    assemblyName: Kirurobo.UniWindowController
+    namespaceName: Kirurobo
+    className: UniWindowMoveHandle
+  - hash:
+      serializedVersion: 2
+      Hash: a90f6a00b23520788be7d89ee3b0773d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 8855f44bfb63c946e782c86c057da27e
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Float
+  - hash:
+      serializedVersion: 2
+      Hash: 2b74e4101f491d6c29028ad8cdac1a30
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_String
+  - hash:
+      serializedVersion: 2
+      Hash: 969dd8a211bcfa478d8207e64c6fb348
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventListener_String
+  - hash:
+      serializedVersion: 2
+      Hash: cbd766ef1c8aa0174a18f8bd4e76d85b
+    assemblyName: UniGLTF
+    namespaceName: UniGLTF.MeshUtility
+    className: BindposeGizmo
+  - hash:
+      serializedVersion: 2
+      Hash: f5df081962c06a171f380eb236cd1f3c
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVBox
+  - hash:
+      serializedVersion: 2
+      Hash: 17dd949352a7346b061c37acddf239de
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Float_Material_TMP
+  - hash:
+      serializedVersion: 2
+      Hash: e8fd74e57e72e8e4ef28792881adb864
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerUIntField
+  - hash:
+      serializedVersion: 2
+      Hash: 58570e231c93c2f96918856759b81286
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 1e7134ec899e0bc7f8566c5cbdd0c568
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FPSLimiter
+  - hash:
+      serializedVersion: 2
+      Hash: e8d390bd9ecacc453a7500b90d0c0292
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: a89b0448af4e1cd103a77f9fec0a961f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSubmitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 508b25ff2aef7bb0082ffa88b137d760
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: SelectableRoot
+  - hash:
+      serializedVersion: 2
+      Hash: 14e0cba7ee4401182c6344e793ca65d2
+    assemblyName: VRM
+    namespaceName: VRM
+    className: LookAtTargetSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 3709c788a23cfb98b1ffebf124dc78a0
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: AddChildIndexToSettingObjectIdentifier
+  - hash:
+      serializedVersion: 2
+      Hash: 5a4aa2850fe11587f47e34c270c7fd22
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: e6f8333cc8a800e2866870a5ef7efc35
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnControllerColliderHitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 47cd7d7ef18e07dee4088da3f436bdf2
+    assemblyName: Unity.Sentis
+    namespaceName: Unity.Sentis
+    className: ModelAssetWeightsData
+  - hash:
+      serializedVersion: 2
+      Hash: 96302c1e2255fdc51e2d1665b711e33c
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsSaver_PlayerPrefs
+  - hash:
+      serializedVersion: 2
+      Hash: dc071c375d2fbd38b98d247db36dcd5d
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ScriptableInputElementProvider_UGUI_FromPrefab_Slider_Integer
+  - hash:
+      serializedVersion: 2
+      Hash: 1ce63d97d1ca25cba2d91d5f32fd5f79
+    assemblyName: Unity.VisualScripting.State
+    namespaceName: Unity.VisualScripting
+    className: StateGraphAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 13b616081f920df4ff359984041a82e7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AudioDebugTest
+  - hash:
+      serializedVersion: 2
+      Hash: 568292fb7ea6c4f7a667e5ff76bc7e85
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseUpMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: e0348923b9b8b7406b795606455973a6
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: UiSampleController
+  - hash:
+      serializedVersion: 2
+      Hash: 55060a7bf226ac385ce19ebd450f199f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: f50e5601c7f60065274135d67aeef889
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventHandlerDebugger
+  - hash:
+      serializedVersion: 2
+      Hash: 67a2ad74499d2fa700bddeb8400316ca
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: OpenCloseUIPanelByType
+  - hash:
+      serializedVersion: 2
+      Hash: 7e12302f66e3c8ed5bcfea4ce65fccea
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6d94138b60a9299798dda96c1ee6725f
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBeginDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: e17dac60d950aaafa20f632a3d2f6db9
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: AdaptScrollRectViewportVerticallyForContentChildren
+  - hash:
+      serializedVersion: 2
+      Hash: 7a990715600d57427066c4e8831b6b00
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMFirstPersonCameraManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1553f209ae0b2d5d3a35685fca55f9c3
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 8bf800a764665b085fe469e8aea7f167
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: f854af586011dd194574f89546642e29
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d4c7cb9e46d192844a5b295d6a3f8dc5
+    assemblyName: Unity.RenderPipelines.GPUDriven.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DisallowGPUDrivenRendering
+  - hash:
+      serializedVersion: 2
+      Hash: a2bd76bdeea00ec64ce6e52c1a7a4b2d
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: PercentageBasedPreferredWidthAndHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 10ffd5579f941e0f4946756d18f1a9df
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerValueTuple
+  - hash:
+      serializedVersion: 2
+      Hash: fc9d2a45923bb2339a7bb6e532646b98
+    assemblyName: Assembly-CSharp
+    namespaceName: AGIA
+    className: AGIAFree_sample
+  - hash:
+      serializedVersion: 2
+      Hash: c78ed13f6b5a632d70d4f73f56ad81f2
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: VariablesSaver
+  - hash:
+      serializedVersion: 2
+      Hash: 1a680d9a08de79b0d2c779e78c9843b4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 28327c541a91b5300bec931575f76c5c
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMHumanoidDescription
+  - hash:
+      serializedVersion: 2
+      Hash: b202d4b71e64a916cde4195c6a9f0ee4
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: OnTabContentSelectedReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 55dd99ff8a2e5523888a169832bdf0d5
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: CloseAllUIPanels
+  - hash:
+      serializedVersion: 2
+      Hash: 595f3903be48ac255bdae9eecae54de1
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: RegisterStyleProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 5e05ec38aa62839e750461d27699c07c
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: ResizeToFitText
+  - hash:
+      serializedVersion: 2
+      Hash: 1d7ded03ca4ab5597c95ba9802e45263
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SimpleShadowRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 58ea9ffa0eb374329586e1845b2b22d9
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: SliderValueDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 80278a8fd2930a959fc3bff9a9e933f0
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: ActiveSelectableChangedTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 055837f504942fd724fa06965a078cc9
+    assemblyName: UniGLTF
+    namespaceName: UniGLTF
+    className: RuntimeGltfInstance
+  - hash:
+      serializedVersion: 2
+      Hash: 2b6771de348bcb80b2496d9f5ef90061
+    assemblyName: VRM
+    namespaceName: VRM
+    className: BlendShapeClip
+  - hash:
+      serializedVersion: 2
+      Hash: 96e7bcfd2d072992dab64ac44058b930
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCancelMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 896e1b1076095eeaf0e1914f1b59250c
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DesktopAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: a1f83387d4cd0d009bc7553b0dfcad3d
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: FindAutoScrollRootBlocker
+  - hash:
+      serializedVersion: 2
+      Hash: 415316b9bbc4e339c901a46503e2790b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: VolumeProfile
+  - hash:
+      serializedVersion: 2
+      Hash: f4cfbed2dc929a68cfa6f9c61a562458
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: RegisterStyleListenersInHierarchyInEditMode
+  - hash:
+      serializedVersion: 2
+      Hash: a5d812cd5b2d5ebd618e4af7219b1bdc
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventInvoker_NoParams
+  - hash:
+      serializedVersion: 2
+      Hash: 38bda5e0e36ad993fc18a93f5ba5972b
+    assemblyName: VRM
+    namespaceName: VRM.SpringBoneJobs
+    className: FastSpringBoneService
+  - hash:
+      serializedVersion: 2
+      Hash: 24af424a437762b0c98a2238a41b2825
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerButton
+  - hash:
+      serializedVersion: 2
+      Hash: ecbcc15bbba940e0be4152004290c80c
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMLookAtBoneApplyer
+  - hash:
+      serializedVersion: 2
+      Hash: ff76cf6cf52b4db7b95af6ffadca9288
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 781f45de75239d57525cefbacbe1383a
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptableVisualTreeAssetCollection
+  - hash:
+      serializedVersion: 2
+      Hash: c880982807b1b52a549c4d26ecf76053
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FixedPosition
+  - hash:
+      serializedVersion: 2
+      Hash: cc6a359d759fec9dc5da10f125c0b1c1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: InvisibleShadowReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 7a46b9f88ced1e9817d1fbc971e5c226
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CanvasSampleSaveFileText
+  - hash:
+      serializedVersion: 2
+      Hash: d7c8092511063e0dae8106bfc8ed63dd
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 0b63f6d3335e11939ce8790b904c8691
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ec6cf673540b2d4e42c612611eeafe4d
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerStayMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 25170a11ec34ab740d779ec248c1d0c0
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: OnSettingValueChangeListener_String
+  - hash:
+      serializedVersion: 2
+      Hash: bd2bfe17b2c6d3634c6c3a6edb6aa87c
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMBlendShapeProxy
+  - hash:
+      serializedVersion: 2
+      Hash: 9c544cdecab9a933cf0ab71a3e63492d
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: OnSelectedEventInvoker
+  - hash:
+      serializedVersion: 2
+      Hash: 8fe6d4f095ce838f5396d1867140a9b6
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: CameraSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 37474cc9520c07bf3ef044255733fb9f
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: AssignStyleProfileToListenersInHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 49c4afdb7d3fcc355f00594fc09ba258
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: post
+  - hash:
+      serializedVersion: 2
+      Hash: d497e277ee09923aa44c51901a8f68f9
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: LensFlareDataSRP
+  - hash:
+      serializedVersion: 2
+      Hash: 52d67aca086b1dd0032cd8d26de5debf
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptableVisualTreeAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 618a84a44e09b0f12d3a85fbebb3e94a
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptableObjectItemData
+  - hash:
+      serializedVersion: 2
+      Hash: d0392b7f3f52d5af537ade186b4f51f1
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ec8e6b10fb748d7ed464bb83fb744096
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: HumanPoseClip
+  - hash:
+      serializedVersion: 2
+      Hash: 049f6aa84fe1cb5359c9338e96d0b07e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: UIFoldout
+  - hash:
+      serializedVersion: 2
+      Hash: 8bbce9932f67ad8e7f4eefec87800f94
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 0612b66411a67ea1a863d6f93649c923
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: SampleManager
+  - hash:
+      serializedVersion: 2
+      Hash: ad49e20f31ed572e586aa8bbaafb591b
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDropMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 04b6685b6f724c0d6024e6b6f96c8202
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: d5b97dff9d30d5174fc686bf7d1f2b66
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Vector2
+  - hash:
+      serializedVersion: 2
+      Hash: 6d394de691f6d0187f61c08889353d0e
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnButtonClickMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b98001682cba83786775c9e415b89a61
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnDropdownValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: bb8d968ef4474e71aaad4a4dce279f90
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseDownMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: dcee4d9fe748bbd34b975495e72312c4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CanvasSampleOpenFileImage
+  - hash:
+      serializedVersion: 2
+      Hash: 93e38e0b638517017a10021ce6849722
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: RootObjectPanel
+  - hash:
+      serializedVersion: 2
+      Hash: caaf14257565c412fe1b191db9d2b75a
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Float_Text_TMP
+  - hash:
+      serializedVersion: 2
+      Hash: b3b7eb2f7da676c5c3046ea0c950ee68
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMLookAtBlendShapeApplyer
+  - hash:
+      serializedVersion: 2
+      Hash: f8f87489515021941d65fbfd5f526345
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: AvatarDescription
+  - hash:
+      serializedVersion: 2
+      Hash: 7e9cad7f71f9cc52f699bbd2d2a75734
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerClickMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5f70b16cd9acc9c1dd88b51b6ed89669
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIndirectToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 5874b789cd9832847c61ebfa803213af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: cb49ce80d4b69cb2ed30d83bfcb146ae
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerBitField
+  - hash:
+      serializedVersion: 2
+      Hash: ad63d34175eb045183415986ddef4b1e
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: ProviderAnchor
+  - hash:
+      serializedVersion: 2
+      Hash: d2ecd94550edf1b56aff07b1f4e41c57
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerEnter2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5ebc58ec194dd44630b25fcc270ad4af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 2cc5af0f17cef9c717df88c8c7e4c9aa
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine
+    className: LightAnchor
+  - hash:
+      serializedVersion: 2
+      Hash: f97f2d5f3d920ecb54709f2eb724ffab
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptableObjectItemData_PackageRemoval
+  - hash:
+      serializedVersion: 2
+      Hash: 94093d7d496619e538073187c309e197
+    assemblyName: Assembly-CSharp
+    namespaceName: Kirurobo
+    className: ModelController
+  - hash:
+      serializedVersion: 2
+      Hash: e7706d48318d2c720a830572727e3ac1
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsMenu_UGUI_NavigationSetter_Basic
+  - hash:
+      serializedVersion: 2
+      Hash: 5dc51b0140815ee83ba613dce32f5b12
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerPersistentCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef9648a09673c05ae977379d2dd1591
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Color_Outline
+  - hash:
+      serializedVersion: 2
+      Hash: fde381bda15dd9ce9786530046c378cc
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: BoneGizmoDrawer
+  - hash:
+      serializedVersion: 2
+      Hash: b5007673bbbdb9d12597a1d8201370f5
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: d5cd7f207e91ca8336c65a577a6fb2a0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: f45600bcc886206dd55a3208474aad61
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnScrollbarValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 00bbd9db8634496d079d17711b2ff7c4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 6f57cc0c57d9acbe5879fe9682bb3538
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI
+    className: UIPanelListener_OnTypeOpenedClosed
+  - hash:
+      serializedVersion: 2
+      Hash: fce9b835d1e8b08e7ecea8da19f21986
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: CoroutineRunner
+  - hash:
+      serializedVersion: 2
+      Hash: 515782b4bea8ed7d4bd6959daa3c5a8f
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: OnSettingValueChangeListener_Float
+  - hash:
+      serializedVersion: 2
+      Hash: 6217b1287eca7eed313cf0b864249a30
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionExit2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: fb79e95da8891fc7ac6c36ca6967af23
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 552dca338f20933ce362ebbe559a6aa6
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: bcf7d92860b2e454876559a38115b2f2
+    assemblyName: CitrioN.UI.Panels
+    namespaceName: CitrioN.UI.UIToolkit
+    className: UIT_Panel
+  - hash:
+      serializedVersion: 2
+      Hash: aa69181284167e026fa6760bcef7c84e
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: RescaleRectTransform
+  - hash:
+      serializedVersion: 2
+      Hash: 191cd500c627cd6682ef6f70b8e47f2c
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionEnter2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d3ce455175068495bc9a6706af31dab5
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventInvoker_String
+  - hash:
+      serializedVersion: 2
+      Hash: 3e9d03d30f1a05cc8a926bf01a474555
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AvatarAnimatorController
+  - hash:
+      serializedVersion: 2
+      Hash: ef38c1407dba8c1f5d69f5db61a694fe
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: AnimatorMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: eb1806463ff11c5913273da42ce4321d
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: Humanoid
+  - hash:
+      serializedVersion: 2
+      Hash: 87bf30cae64a7bc7aee0a9de77f6d1b1
+    assemblyName: Kirurobo.UniWindowController
+    namespaceName: Kirurobo
+    className: UniWindowController
+  - hash:
+      serializedVersion: 2
+      Hash: b12640dfdb5966813e9dd838893e6c4a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8d5318ed8488b1fe17c08044ce1b8309
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: e18dfd2b913b09fbbb2405165a2e6a44
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: ada873da50974d1e7ce247ffb296b0f3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8b850ce7776ac2771fcf93058942eb56
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: TabMenu_UGUI_OnTabSelectedMessageReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 462e2fd9b205250473a5c85884954814
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AviController
+  - hash:
+      serializedVersion: 2
+      Hash: a373c7a7c767302aa222c5966243c463
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ArmatureLink
+  - hash:
+      serializedVersion: 2
+      Hash: 5382156409d7c462c67822a5ee8d6c85
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerToggleHistory
+  - hash:
+      serializedVersion: 2
+      Hash: 185e7bacfbbc5defefa609c70f7ff4ce
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: e402a382f213255c22bda9254dd831b3
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: SceneVariables
+  - hash:
+      serializedVersion: 2
+      Hash: 540882762544409cc4530e60db00e951
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 17142b03663387290480c82303274c02
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnPointerEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 00eef92bf387da2c9009267123d9d674
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnTriggerExit2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: ed2c59b75f8f3cd8df4cd4387d965e71
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector2
+  - hash:
+      serializedVersion: 2
+      Hash: d260d8db177c16f6452ac49991d17f8e
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: ApplyStyleProfileToHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 6082514fc67629582c3a80cd781e54d6
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMMetaObject
+  - hash:
+      serializedVersion: 2
+      Hash: 2541c03d117382d4ebbe0bb0775dd2dc
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 60d111ace4b3159ce3f338811d10587d
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventInvoker_Transform_FromHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 5c21f4846181ee6e245db1fcfb62fc0e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerContainer
+  - hash:
+      serializedVersion: 2
+      Hash: ca7965796a6fc0e5baad4cb19f5b5ded
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnJointBreak2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 722eb191053154eac6de3928b5d9b098
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMMetaInformation
+  - hash:
+      serializedVersion: 2
+      Hash: b62eb333f46a3756fa08425c9290d685
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Color
+  - hash:
+      serializedVersion: 2
+      Hash: f1d5d758e4f9a21583f8fd54f5e2a88c
+    assemblyName: CitrioN.UI.Components
+    namespaceName: CitrioN.UI
+    className: ScrollRectAutoScrollerDebugger
+  - hash:
+      serializedVersion: 2
+      Hash: cde402e184a6ab530144506bc9d6a0af
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector4
+  - hash:
+      serializedVersion: 2
+      Hash: 6910e52411044f0ce09c6bfa50819ce9
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: SettingsMenu_UIT
+  - hash:
+      serializedVersion: 2
+      Hash: f778e23b6ff26b8de4721be0eb1fa240
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionStayMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8c7207cb2cd33308947885452d05a49c
+    assemblyName: CitrioN.StyleProfileSystem
+    namespaceName: CitrioN.StyleProfileSystem
+    className: StyleListener_Sprite
+  - hash:
+      serializedVersion: 2
+      Hash: b747f5d40674055dd70e18552f1b0447
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: e6b258489c88376c5869946b2735e7e5
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0dd2a647bc3f7d3e76ced834aad137a0
+    assemblyName: CitrioN.UI
+    namespaceName: CitrioN.UI
+    className: ToggleValueChangeListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6a0b5b415c00f783202fd1ae2d556cb2
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 302af584cc000a085ce384e29005b9d3
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: GlobalEventListener_GameObject
+  - hash:
+      serializedVersion: 2
+      Hash: 41cf316d83e2ef8d58915c022770aaad
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AvatarSitController
+  - hash:
+      serializedVersion: 2
+      Hash: b88e78b6860b6061b2c681ea9b80b6bf
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerToggle
+  - hash:
+      serializedVersion: 2
+      Hash: b3a61088d069970d9a6a4da99f00f826
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: OnSettingValueChangeListener_Boolean
+  - hash:
+      serializedVersion: 2
+      Hash: db6133687572f9dc24f1fd4238ef9b83
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 72084995fa9ef3885059c85caf66d25d
+    assemblyName: Unity.Sentis
+    namespaceName: Unity.Sentis
+    className: ModelAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 10c17b309bdca62b4d7fbaf113ed4ca0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 58f6c91dc9977217e7536afccdb74f71
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeAdjustmentVolume
+  - hash:
+      serializedVersion: 2
+      Hash: e4faebcfb5a97b102dc855316986dab7
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: OnEnableDisableEvents
+  - hash:
+      serializedVersion: 2
+      Hash: 9a174471d4db2c0c6d3ac47d2f818db1
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnParticleCollisionMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 336fcf2652c57854ce681b2ca0d4ca54
+    assemblyName: CitrioN.SettingsMenuCreator
+    namespaceName: CitrioN.SettingsMenuCreator
+    className: OnSettingValueChangeListener_Integer
+  - hash:
+      serializedVersion: 2
+      Hash: dc11df94a58590b3d18c583d8dcdb075
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMSpringBoneColliderGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 83cfda82082c233d96cc677c19f57e07
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnJointBreakMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: a1ac4c50e55874de16eee3db71aa9784
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 12afd1eec6a549c815b24ae03d12c120
+    assemblyName: VRM
+    namespaceName: VRM
+    className: VRMFirstPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 4718916586b3818eb69bf65df61f0f3a
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnCollisionStay2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1a7411fc5757c8b5ba93650add782a64
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ScriptablePersistentData
+  - hash:
+      serializedVersion: 2
+      Hash: d82086405f46de14829f6b4bcbdd8fc9
+    assemblyName: Unity.VisualScripting.Core
+    namespaceName: Unity.VisualScripting
+    className: UnityOnBecameInvisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 77f63a7d749b460cbbdd5ea2931c7876
+    assemblyName: CitrioN.Common
+    namespaceName: CitrioN.Common
+    className: ApplicationQuitBlocker
+  - hash:
+      serializedVersion: 2
+      Hash: f2305da2400dfe6f069770a1a63f0f7c
+    assemblyName: Unity.Timeline
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 9ebdbcf4aa16c852ae88c9c4174a9ac2
+    assemblyName: UniHumanoid
+    namespaceName: UniHumanoid
+    className: BoneMapping
+  platform: 19
+  scenePathNames:
+  - Assets/Enginev1.unity
+  playerPath: C:/Users/Johns/MateEngineX/Versions/Pre-Beta6/MateEngineX.exe

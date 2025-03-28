@@ -10,7 +10,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -28,7 +27,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -46,7 +44,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -163,7 +160,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -280,7 +276,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -397,7 +392,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -515,7 +509,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -534,7 +527,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -553,7 +545,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -621,7 +612,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -688,7 +678,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -713,7 +702,6 @@ Library: C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugi
 --linker-options=PdbAltPath="MateEngineX_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Johns\Documents\GitHub\Mate-Engine\Library\Burst
 --output=C:\Users\Johns\Documents\GitHub\Mate-Engine\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated

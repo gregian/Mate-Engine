@@ -2,7 +2,67 @@ fileFormatVersion: 2
 guid: ce66bb252bfce2f42a223fee22e3a0db
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Material
+    second: {fileID: 2100000, guid: 22fb3542587108640875821bfe6556c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Material 1
+    second: {fileID: 2100000, guid: 45450e29d775b9341b929cce91d55d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Material 2
+    second: {fileID: 2100000, guid: efb5385e1e8007943a554b12e561b610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Material 3
+    second: {fileID: 2100000, guid: 5803d305e23cb5d4e905768cb5475f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New Material 4
+    second: {fileID: 2100000, guid: a04eeb5518468b04b8bd1699b903f17c, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: 22
+    second: {fileID: 2800000, guid: f5d2a633482bac241a1a692b9906d6e6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: 39
+    second: {fileID: 2800000, guid: 8145d007aeea0264293d9653bf87523b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Cloth_ColorV2
+    second: {fileID: 2800000, guid: ee45cbf41bd1f0d42b19695e9db99e4f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2800000, guid: 993bc9868dd2d3f4f949d66c91dc4338, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: HairShadow_Mask
+    second: {fileID: 2800000, guid: 266049984b5c9ee4caaabea4ff683bf4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2800000, guid: 9a2c4c6e24cff8e43b79e9083087c83d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: hair_col
+    second: {fileID: 2800000, guid: 1d7b4ba06f1bf614c8e0f357ed7fad55, type: 3}
   serializedVersion: 2
   userData: 
   assetBundleName: 

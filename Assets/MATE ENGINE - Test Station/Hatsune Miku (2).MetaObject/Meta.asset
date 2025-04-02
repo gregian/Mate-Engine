@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Meta
   m_EditorClassIdentifier: 
   ExporterVersion: UniVRM-0.128.1
-  Title: Hatsune Miku
-  Version: 1.2
-  Author: Shiny
+  Title: ' '
+  Version: ' '
+  Author: ' '
   ContactInformation: 
   Reference: 
   Thumbnail: {fileID: 0}

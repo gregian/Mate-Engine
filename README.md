@@ -140,6 +140,12 @@ Mate Engine offers smoother animation transitions than Desktop Mate, avoiding th
 3. Unzip and run `MateEngineX.exe`.  
 4. Right-click the avatar or press `M` to open the settings menu.
 
+#### To use MateEngine with LocalAI, follow these steps:
+
+1. Download the model from Hugging Face:  
+   https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf
+2. Once the download is complete, move the file `qwen2.5-1.5b-instruct-q4_k_m.gguf` into your project’s `Root/MateEngineX_Data/StreamingAssets` directory.
+
 ---
 
 ## Frequently Asked Questions
